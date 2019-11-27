@@ -1,0 +1,15 @@
+.alert-error {
+  color:red;
+}
+
+.alert-success {
+  color: green;
+}
+
+.view-row:hover {
+    text-decoration: none;
+}
+
+.click-enable {
+    cursor: pointer
+}
