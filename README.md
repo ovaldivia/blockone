@@ -1,4 +1,4 @@
-# Block One Technical Test
+# Block One Reader
 
 As an EOS User, list the most recent blocks from the eosio blockchain. 
 By @ovaldivia
