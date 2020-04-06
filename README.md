@@ -3,8 +3,6 @@
 As an EOS User, list the most recent blocks from the eosio blockchain. 
 By @ovaldivia
 
-See running example [here](http://d2lmk4df7ni3el.cloudfront.net/,"Example")
-
 ## Project setup
 ```
 npm install
